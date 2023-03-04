@@ -2,7 +2,7 @@
 
 | No.  | Machine name       |  Difficulty  |
 | ---- | ------------------ | :-----------:|
-| 1    | [Basic-Pentesting](../FunboxEasy/) | Easy         |
+| 1    | [Basic-Pentesting](../FunboxEasy/FunboxEasy-room.md) | Easy         |
 | 2    | RootMe             | Easy         |
 | 3    | Simple-CTF         | Easy         |
 | 4    | Simple-CTF         | Easy         |
