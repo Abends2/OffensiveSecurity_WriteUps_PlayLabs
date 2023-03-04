@@ -1,6 +1,5 @@
 # Offensive Security: FunboxEasy
 
-## Task 1: Lazy Admin
 Используем nmap для сканирования машины:
 ```sh
 nmap -sC -sV 192.168.68.111
@@ -103,7 +102,7 @@ gobuster dir -u http://192.168.68.111/store -w /usr/share/wordlists/dirbuster/di
 
 ![ScreenShot](screenshots/22.png)
 
-Получаем reverse shell на прослущиваемом порте:
+Получаем reverse shell на прослушиваемом порте:
 
 ![ScreenShot](screenshots/23.png)
 
