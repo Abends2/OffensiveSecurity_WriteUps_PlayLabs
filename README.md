@@ -7,4 +7,6 @@
 | 3    | 📗 [Gaara](../main/Gaara-room/Gaara-room.md)                                          | Easy                     |
 | 4    | 📗 [SunsetNoontide](../main/SunsetNoontide-room/SunsetNoontide-room.md)               | Easy                     |
 | 5    | 📗 [OnSystemShellDredd](../main/OnSystemShellDredd-room/OnSystemShellDredd-room.md)   | Easy                     |
+| 6    | 📗 [OnSystemShellDredd](../main/FunboxRookie-room/FunboxRookie-room.md)               | Easy                     |
+
 
