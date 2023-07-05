@@ -35,6 +35,7 @@ nmap -sC -sV 192.168.181.92
 ![ScreenShot](screenshots/7.png)
 
 **SSH User: itsskv**
+
 **SSH Password: cybersploit{youtube.com/c/cybersploit}**
 
 ### Question 1: User flag?
