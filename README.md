@@ -9,4 +9,4 @@
 | 5    | 📗 [OnSystemShellDredd](../main/OnSystemShellDredd-room/OnSystemShellDredd-room.md)   | Easy                     |
 | 6    | 📗 [FunboxRookie](../main/FunboxRookie-room/FunboxRookie-room.md)                     | Easy                     |
 | 7    | 📗 [CyberSploit1](../main/CyberSploit1-room/CyberSploit1-room.md)                     | Easy                     |
-
+| 8    | 📗 [Moneybox](../main/Moneybox-room/Moneybox-room.md)                                 | Easy                     |
