@@ -1,9 +1,11 @@
 # Offensive Security: OnSystemShellDredd
 
 Используем nmap для сканирования машины:
+
 ```sh
 nmap -sC -sV 10.10.124.86
 ```
+
 ![ScreenShot](screenshots/1.png)
 
 Мы нашли:
